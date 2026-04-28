@@ -1,0 +1,13 @@
+pyproject.toml
+people_pick/__init__.py
+people_pick/voting.py
+people_pick.egg-info/PKG-INFO
+people_pick.egg-info/SOURCES.txt
+people_pick.egg-info/dependency_links.txt
+people_pick.egg-info/requires.txt
+people_pick.egg-info/top_level.txt
+people_pick/methods/__init__.py
+people_pick/methods/bentham.py
+people_pick/methods/borda.py
+people_pick/methods/condorcet.py
+people_pick/methods/nash.py
