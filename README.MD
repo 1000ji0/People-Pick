@@ -5,6 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+#### **url 바로가기**
+> **https://people-pick-qlabdahgaaksgchfppas6f.streamlit.app/**
 ---
 
 ## 📌 프로젝트 소개
